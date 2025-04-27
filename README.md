@@ -53,19 +53,10 @@ I'm deeply passionate about **emerging technologies** and love participating in 
 I believe in building solutions that matter and making technology accessible to everyone.
 
 ---
-
-### 📈 GitHub Analytics
+### 📊 GitHub Stats
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=epadev&show_icons=true&hide_border=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epadev&layout=compact&hide_border=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=epadev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=epadev&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=epadev&show_icons=true&theme=radical" alt="epadev GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=epadev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=epadev&theme=radical" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=epadev&theme=radical&utcOffset=8" />
 </p>
 
 ---
