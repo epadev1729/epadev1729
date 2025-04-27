@@ -1,36 +1,40 @@
-<h1 align="center">Hi 👋, I'm Elisban</h1>
-<h3 align="center">A passionate systems engineer from Puno, Perú 🇵🇪</h3>
+# 👋 Hi, I'm Elisban Pacco Accha (epadev)
+
+**Systems Engineer | Web & Mobile Developer | Tech Enthusiast**
 
 ---
 
-### 🧑‍💻 About Me
-- 🌎 I'm from **Puno, Peru**.
-- 🎓 I'm a **Systems Engineer**.
-- 💻 I develop **web applications** using **React, Vite, PHP (Laravel), HTML, CSS, JavaScript**.
-- 📱 I also create **mobile apps** with **Kotlin** and **Jetpack Compose** in **Android Studio**.
+### 📍 About Me
+
+- 🏡 From **Puno, Perú** 🇵🇪
+- 🎓 **Systems Engineer** passionate about technology and innovation.
+- 💻 I develop **Web Apps** using **React**, **Vite**, **Laravel (PHP)**, **HTML**, **CSS**, and **JavaScript**.
+- 📱 I create **Mobile Apps** with **Kotlin** and **Jetpack Compose**.
 - ☁️ I work with **Firebase**, **Google Cloud**, **Google Maps APIs**, **Gemini AI**, and more.
-- 🐍 I recently started learning **Python** and built a **desktop-like AI simulator** project with **Gemini AI** and **MCPs**.
-- 🖥️ I'm familiar with **C++**, **C**, **SQL (MySQL, PostgreSQL)** and **NoSQL** databases.
-- 🚀 I'm currently exploring **Neon Tech**, **Render**, **Turso**, **Vercel**, and other emerging tools.
-- 🌱 Next, I want to dive into **C#** and build amazing projects with **.NET**.
+- 🐍 Currently learning **Python** and building AI-powered desktop-like projects.
+- 🖥️ Experience with **C++**, **C**, **SQL (MySQL, PostgreSQL)**, and **NoSQL** databases.
+- 🚀 Exploring new technologies like **Neon Tech**, **Render**, **Turso**, **Vercel**, and **Supabase**.
 
 ---
 
 ### 🚀 Some of My Private Projects
-- 🌐 **University Campus Map Web App** — Built with React, Firebase, Google Maps APIs, and custom backend.
-- 📲 **Municipality Service App** — Android app for streamlining document submissions and service requests for a district municipality.
 
-*(Note: Most of my projects are currently private.)*
+- 🌐 **University Campus Map Web App** — React + Firebase + Google Maps APIs
+- 📲 **Municipality Service Android App** — Kotlin + Android Studio + Cloud Backend
+
+> *Note: Most of my projects are currently private.*
 
 ---
 
 ### 🎯 My Passion
-> "Programming is a world where creativity has no limits."
 
-I'm deeply passionate about **emerging technologies** and love participating in projects inside and outside of my comfort zone.  
-I believe in building solutions that matter and making technology accessible to everyone.
+> *"Programming is a world where creativity has no limits."*
+
+I love exploring new technologies, solving real-world problems, and building software that makes a difference.
 
 ---
+
+
 
 ### 📊 GitHub Stats
 <p align="center">
