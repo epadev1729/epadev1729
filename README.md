@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Elisban </h1>
-<h3 align="center">A passionate systems engineer from Puno, Perú 🇵🇪</h3>
+<h3 align="center">A passionate systems engineer 💻</h3>
 
 <!-- Imagen representativa -->
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.png" alt="Programming Image" width="500" />
+  <img src="https://www.itmastersmag.com/wp-content/uploads/2021/01/shutterstock_1078387013-scaled.jpg" alt="Programming Illustration" width="500" />
 </p>
 
 ---
