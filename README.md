@@ -53,17 +53,14 @@ I'm deeply passionate about **emerging technologies** and love participating in 
 I believe in building solutions that matter and making technology accessible to everyone.
 
 ---
-### 📊 GitHub Stats
+### ⚙️ GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=epadev&show_icons=true&theme=radical" alt="epadev GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=epadev&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=epadev&show_icons=true&hide_border=true&include_all_commits=true&theme=blueberry"
+    alt="My GitHub Statistics" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=epadev&layout=compact&hide_border=true&theme=blueberry"
+    alt="My Programming Languages" />
 </p>
-
----
-
-### 🎉 Fun Fact
-🐣 I haven't been booped on the nose yet... but I'm ready! 🐣
-
-You can boop me by leaving a ⭐ on one of my future public repositories!
 
 ---
